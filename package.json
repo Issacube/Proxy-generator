@@ -37,7 +37,7 @@
     "url": "https://github.com/chill117/proxy-lists/issues"
   },
   "dependencies": {
-    "async": "3.2.0",
+    "async": "3.2.2",
     "commander": "6.0.0",
     "data-sourcer": "1.10.0",
     "debug": "4.1.1",
